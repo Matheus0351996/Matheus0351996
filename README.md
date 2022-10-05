@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭  Desenvolvedor Jr Full-Stack - Estudante de Engenharia da computação<br>👯  Procurando encarar novos desafios!<br>🤝 À Procura da primeira oportunidade <br>🌱  Estou estudando atualmente AWS-Azure<br>💬 Me faça uma pergunta<br>⚡ Uma curiosidade:  Além de desenvolvedor sou treinador de atletas de fisiculturismo. 
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/coach_natal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-natal-santos-aa00a2241/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18458489/matheus035) 
 
 # 💻 Tech Stack:
