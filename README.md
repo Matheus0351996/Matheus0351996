@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭  Desenvolvedor Jr Full-Stack - Estudante de Engenharia da computação<br>👯  Apaixonado por React !<br>🤝 À Procura da primeira oportunidade <br>🌱  Estou me aprofundando ainda mais em Typescript<br>💬 Me faça uma pergunta<br>⚡ Uma curiosidade:  Além de desenvolvedor sou treinador de atletas de fisiculturismo. 
+🔭  Desenvolvedor Jr Front end - Estudante de Engenharia da computação<br>👯  Apaixonado por React !<br>🤝 À Procura da primeira oportunidade <br>🌱  Estou me aprofundando ainda mais em Typescript<br>💬 Me faça uma pergunta<br>⚡ Uma curiosidade:  Além de desenvolvedor sou treinador de atletas de fisiculturismo. 
 
 
 ## 🌐 Redes sociais:
